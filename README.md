@@ -34,7 +34,7 @@ Error: Could not find a version that satisfies the requirement '~2.40802.191122'
 
 ## Requirements
 
-- `devel/xtensa-lx106-elf` is installed
+- [`devel/xtensa-lx106-elf`](https://github.com/trombik/freebsd-ports-xtensa-lx106-elf/tree/master/devel/xtensa-lx106-elf) is installed
 
 ## Usage
 
