@@ -16,7 +16,7 @@ cat <<__EOF__ >package.json
     "description": "xtensa-gcc",
     "name": "toolchain-xtensa",
     "system": [
-        "linux_x86_64"
+        "freebsd_amd64"
     ],
     "url": "https://github.com/jcmvbkbc/gcc-xtensa",
     "version": "${VERSION}"
