@@ -32,6 +32,11 @@ PackageManager: Installing toolchain-xtensa @ ~2.40802.191122
 Error: Could not find a version that satisfies the requirement '~2.40802.191122' for your system 'freebsd_amd64'
 ```
 
+## What it does
+
+`init.sh` creates symlinks to the directories where the system package
+installed the tool-chain, and creates `package.json`.
+
 ## Requirements
 
 - [`devel/xtensa-lx106-elf`](https://github.com/trombik/freebsd-ports-xtensa-lx106-elf/tree/master/devel/xtensa-lx106-elf) is installed
