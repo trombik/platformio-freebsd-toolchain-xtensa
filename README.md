@@ -29,6 +29,7 @@ pio run -e tasmota
 Processing tasmota (platform: espressif8266@2.5.1; framework: arduino; board: esp01_1m)
 ---------------------------------------------------------------------------------------
 PackageManager: Installing toolchain-xtensa @ ~2.40802.191122
+Error: Could not find a version that satisfies the requirement '~2.40802.191122' for your system 'freebsd_amd64'
 ```
 
 ## Requirements
