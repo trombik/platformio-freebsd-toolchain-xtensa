@@ -39,7 +39,7 @@ installed the tool-chain, and creates `package.json`.
 
 ## Requirements
 
-- [`devel/xtensa-lx106-elf`](https://github.com/trombik/freebsd-ports-xtensa-lx106-elf/tree/master/devel/xtensa-lx106-elf) is installed
+- [`trombik/freebsd-ports-xtensa-lx106-elf`](https://github.com/trombik/freebsd-ports-xtensa-lx106-elf) is installed
 
 ## Usage
 
