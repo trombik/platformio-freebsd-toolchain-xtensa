@@ -3,6 +3,11 @@
 Trick `platformio` so that it thinks `toolchain-xtensa`, a `platformio`
 package, is installed.
 
+## Notice
+
+With recent ESP8266/Arduino (3.0.0), This workaround does not work anymore. Use
+[freebsd-ports-esp-quick-toolchain](https://github.com/trombik/freebsd-ports-esp-quick-toolchain/).
+
 ## Rationale
 
 `platformio` claims "No more hardware or software lock-ins", but users are
